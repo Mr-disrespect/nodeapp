@@ -16,7 +16,6 @@ MEAN is a set of Open Source components that together, provide an end-to-end fra
 - mongodb - [Download page](https://www.mongodb.com/download-center/community) .
 
 ### Installation
-
 ```
 git clone https://github.com/linnovate/mean
 cd mean
